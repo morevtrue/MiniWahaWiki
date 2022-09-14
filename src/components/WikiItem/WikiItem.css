@@ -1,0 +1,19 @@
+.wiki-item {
+	box-sizing: border-box;
+	flex-basis: 33.33%;
+	padding: 10px;
+	text-decoration: none;
+	color: inherit;
+	display: block;
+}
+
+.wiki-item img {
+	max-width: 100%;
+}
+
+.wiki-item__title {
+	margin: 10px 0;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+}

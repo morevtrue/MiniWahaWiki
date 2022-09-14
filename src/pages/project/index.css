@@ -1,0 +1,18 @@
+.project {
+	padding: 40px;
+	text-align: center;
+}
+
+.project__screenshot {
+	display: block;
+	margin: 0 auto 20px;
+	max-width: 100%;
+}
+
+.project__title {
+	margin: 20px 0;
+}
+
+.project__description {
+	margin: 20px 0;
+}
